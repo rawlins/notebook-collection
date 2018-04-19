@@ -22,8 +22,8 @@ before_install:
 
 install:
   # test kernel installation
-  - git clone https://github.com/rawlins/lambda-notebook.git
-  - lambda-notebook/install_lambda_kernel.py
+  - git clone https://github.com/rawlins/lambda-notebook.git lambda-notebook-repo
+  - lambda-notebook-repo/install_lambda_kernel.py
   - jupyter kernelspec list
 
 script:
