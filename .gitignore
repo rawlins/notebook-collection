@@ -1,0 +1,21 @@
+LOCAL_TODO.md
+.DS_Store
+~$*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+local_notebooks/
+notebooks/local_notebooks/
+build_support/build-python-lib/
+build_support/build_tmp/
+build_support/lambda_notebook_venv/
+build_support/build/
+build_support/dist/
+build_support/Lambda Notebook.app
+Lambda Notebook.app
+build_support/Lambda Notebook.dmg
+kernel/lambda-notebook/kernel.json
+
+# Sphinx documentation
+docs/_build/
+
