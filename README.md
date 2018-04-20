@@ -4,9 +4,9 @@
 
 ### Kyle Rawlins (kgr@jhu.edu)
 
-This repository is an archive for Jupyter notebooks that implement linguistic analyses in the areas of semantics and pragmatics. See [https://github.com/rawlins/lambda-notebook](https://github.com/rawlins/lambda-notebook) for a project that supports doing linguistic analysis of this type in a notebook. All of the notebooks in this archive currently require the lambda notebook kernel to be installed, and come from the lambda notebook project. For notebooks that appear in both repositories, the lambda-notebook version is the master.
+This repository is an archive for Jupyter notebooks that implement linguistic analyses in the areas of semantics and pragmatics. See [https://github.com/rawlins/lambda-notebook](https://github.com/rawlins/lambda-notebook) for a project that supports doing linguistic analysis of this type in a notebook. All of the notebooks in this archive currently require the lambda notebook kernel to be installed to run, and come from the lambda notebook project. For notebooks that appear in both repositories, the lambda-notebook version is the master.
 
-The SVG MathJax renderer is highly recommended for notebooks in this repository. All notebooks are (supposed to be) saved pre-executed.
+The SVG MathJax renderer is highly recommended for notebooks in this repository. All notebooks are (supposed to be) saved pre-executed (whereas the lambda notebook copies are clean except for the demo).
 
 Some examples:
 * [Continuations and Quantifier scope](http://nbviewer.jupyter.org/github/rawlins/notebook-collection/blob/master/lambda-notebook/fragments/Continuations%20and%20quantifier%20scope.ipynb), implementing the 2002 proposal by Chris Barker.
